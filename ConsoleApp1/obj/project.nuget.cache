@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0w8+2PCj17SSde7/gzrIPyspReT4nGGZH2hyAJfYxu2o3wff6qHy3emZZDOsvnT36eV/xZ+awsBYu2xBE1ntQ==",
+  "success": true,
+  "projectFilePath": "/Users/emrekabali/Desktop/BackendProjects/testtt/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/emrekabali/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/emrekabali/.nuget/packages/sixlabors.imagesharp/3.1.4/sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "/Users/emrekabali/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
